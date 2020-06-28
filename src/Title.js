@@ -21,6 +21,10 @@ export default function Title() {
     const Name = styled.h3`
         font-size: 25px;
         font-weight: 900;
+        @media (max-width: 510px) {
+        font-size: 21px;
+        margin: -10px;
+        }
     `;
 
     const Position = styled.h6`
