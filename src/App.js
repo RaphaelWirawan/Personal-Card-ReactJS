@@ -1,26 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import GlobalStyle from "./GlobalStyle";
+import CardContainer from "./CardContainer";
+import Title from "./Title";
+import Description from "./Description";
+import Socials from "./Socials"
 
-function App() {
+export default function app() {
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <>
+      <CardContainer>
+        <Title />
+        <Description />
+        <Socials />
+      </CardContainer>
+      <GlobalStyle />
+    </>
+  )
 }
-
-export default App;
