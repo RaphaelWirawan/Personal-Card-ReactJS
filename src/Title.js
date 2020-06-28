@@ -8,12 +8,12 @@ export default function Title() {
         justify-content: space-between;
         flex-direction: column;
         align-items: center;
-        height: 28vh;
-        margin-bottom: 2vh;
+        height: 164.36px;
+        margin-bottom: 11.74px;
     `;
 
     const Img = styled.img`
-        height: 16vh;
+        height: 93.92px;
         border-radius: 50%;
         filter: grayscale(80%);
     `;

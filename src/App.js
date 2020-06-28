@@ -5,7 +5,7 @@ import Title from "./Title";
 import Description from "./Description";
 import Socials from "./Socials"
 
-export default function app() {
+export default function App() {
 
 
   return (

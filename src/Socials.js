@@ -10,8 +10,8 @@ export default function Socials() {
         flex-direction: row;
         justify-content: space-around;
         align-items: center;
-        height: 10vh;
-        width: 50vh;
+        height: 58.7px;
+        width: 293.5px;
     `;
 
     const Icon = (props) => (
