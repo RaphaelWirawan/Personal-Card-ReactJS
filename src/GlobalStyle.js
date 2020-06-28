@@ -10,10 +10,9 @@ const GlobalStyle = createGlobalStyle`
         font-family: 'Lato';
         font-size: 5vh;
         height: 100vh;
+        width: 100vw;
         display: flex;
-        align-content: center;
         justify-content: center;
-        flex-direction: column;
         align-items: center;
     }
 `;

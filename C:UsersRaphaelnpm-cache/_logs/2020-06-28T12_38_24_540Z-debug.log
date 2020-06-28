@@ -1,0 +1,19 @@
+0 info it worked if it ends with ok
+1 verbose cli [
+1 verbose cli   '/home/ravictory/.nvm/versions/node/v12.18.0/bin/node',
+1 verbose cli   '/home/ravictory/.nvm/versions/node/v12.18.0/bin/npm',
+1 verbose cli   'start'
+1 verbose cli ]
+2 info using npm@6.14.4
+3 info using node@v12.18.0
+4 verbose run-script [ 'prestart', 'start', 'poststart' ]
+5 info lifecycle web-card@0.1.0~prestart: web-card@0.1.0
+6 info lifecycle web-card@0.1.0~start: web-card@0.1.0
+7 verbose lifecycle web-card@0.1.0~start: unsafe-perm in lifecycle true
+8 verbose lifecycle web-card@0.1.0~start: PATH: /home/ravictory/.nvm/versions/node/v12.18.0/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/mnt/d/RAVI/Programming/ReactJS/Other projects/web-card/node_modules/.bin:/home/ravictory/.nvm/versions/node/v12.18.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Python38/Scripts/:/mnt/c/Python38/:/mnt/c/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files (x86)/Razer Chroma SDK/bin:/mnt/c/Program Files/Razer Chroma SDK/bin:/mnt/c/Program Files (x86)/Intel/iCLS Client/:/mnt/c/Program Files/Intel/iCLS Client/:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Program Files (x86)/Intel/Intel(R) Management Engine Components/DAL:/mnt/c/Program Files/Intel/Intel(R) Management Engine Components/DAL:/mnt/c/Program Files (x86)/Intel/Intel(R) Management Engine Components/IPT:/mnt/c/Program Files/Intel/Intel(R) Management Engine Components/IPT:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/dotnet/:/mnt/c/Users/Raphael W/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Raphael W/.dotnet/tools:/mnt/c/Python27:/mnt/c/Python:/mnt/c/Users/Raphael W/AppData/Local/Programs/Python/Python37-32/Scripts/:/mnt/c/Users/Raphael W/AppData/Local/Programs/Python/Python37-32/:/mnt/c/Users/Raphael W/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Raphael W/AppData/Local/GitHubDesktop/bin:/mnt/c/Users/Raphael W/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/Raphael W/AppData/Local/atom/bin:/mnt/c/Users/Raphael W/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Raphael W/AppData/Roaming/npm:/snap/bin
+9 verbose lifecycle web-card@0.1.0~start: CWD: /mnt/d/RAVI/Programming/ReactJS/Other projects/web-card
+10 silly lifecycle web-card@0.1.0~start: Args: [ '-c', 'react-scripts start' ]
+11 timing npm Completed in 17669236ms
+12 error cb() never called!
+13 error This is an error with npm itself. Please report this error at:
+14 error <https://npm.community>

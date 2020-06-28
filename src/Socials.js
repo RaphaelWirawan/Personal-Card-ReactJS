@@ -24,7 +24,7 @@ export default function Socials() {
             <Icon data-tip="RaphaelWirawan" url="http://linkedin.com/in/RaphaelWirawan" />
             <Icon data-tip="RaphaelWirawan" url="http://instagram.com/RaphaelWirawan" bgColor="#e04c8f" />
             <Icon data-tip="alessandrowirawan@gmail.com" url="mailto:alessandrowirawan@gmail.com" />
-            <Icon data-tip="089517805439" network="whatsapp" bgColor="#56d184" />
+            <Icon data-tip="0895-1780-5439" network="whatsapp" bgColor="#56d184" />
             <ReactTooltip />
         </Container>
     )
